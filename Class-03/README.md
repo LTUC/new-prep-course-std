@@ -1,4 +1,4 @@
-# Day03
+# Class-03: Branches, Pull requests, Conflicts, Github pages
 
 ## Outcomes
 ### Students will learn :

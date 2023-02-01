@@ -1,4 +1,4 @@
-# Day 10
+# Class-10: JS (DOM Manipulation)
 
 ## Outcomes
 

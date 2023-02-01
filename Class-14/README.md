@@ -1,4 +1,4 @@
-# Day 14: JS Debugging:
+# Class-14: Debugging in JS
 
 ## Outcomes
 

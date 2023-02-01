@@ -1,4 +1,4 @@
-# Day 12
+# Class-12: Local Storage and JSON
 
 ## Outcomes
 

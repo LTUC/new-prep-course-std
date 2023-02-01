@@ -1,4 +1,4 @@
-# Day01
+# Class-01: Intro, GUI and CLI,Terminal
 
 ## Outcomes
 Students will:

@@ -1,4 +1,4 @@
-# Day08
+# Class-08: JS (Obj intro to DOM) + Hoisiting
 
 ## Outcomes:
 Students will be able to:

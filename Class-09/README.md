@@ -1,4 +1,4 @@
-# Day 09
+# Class-09: JS (Constructors)
 
 ## Outcomes
 Students should be able to:

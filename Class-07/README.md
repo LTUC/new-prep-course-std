@@ -1,4 +1,4 @@
-# Day 07
+# Class-07: JS (data types, operators, array, loops, functions, Popup boxes)
 
 ## Outcomes:
 Students will be able to:

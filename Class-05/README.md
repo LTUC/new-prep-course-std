@@ -1,4 +1,4 @@
-# Day 05
+# Class-05: CSS Layout + (colors, selectors,fonts...)
 
 ## Outcomes:
 Students will be able to:

@@ -1,4 +1,4 @@
-# Day 13: CDN JS Libraries:
+# Class-13: CDN Libraries, Chart JS
 
 ## Outcomes
 

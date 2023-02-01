@@ -1,4 +1,4 @@
-# Day04
+# Class-04: HTML + CSS Intro + Wireframes
 
 ## Outcomes
 ### Students will learn :

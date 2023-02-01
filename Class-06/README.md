@@ -1,4 +1,4 @@
-# Day 06
+# Class-06: HTML Forms + Tables
 
 ## Outcomes:
 Students will be able to:

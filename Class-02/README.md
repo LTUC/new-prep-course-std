@@ -1,4 +1,4 @@
-# Day02
+# Class-02: VCS, Git, GitHub, Markdown
 
 ## Outcomes
 Students will:

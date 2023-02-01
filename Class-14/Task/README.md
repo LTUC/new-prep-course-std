@@ -1,4 +1,4 @@
-# Coffe Project
+# Coffee Project
 
 ## Task 14
 
