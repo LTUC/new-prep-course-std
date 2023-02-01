@@ -1,18 +1,17 @@
-# Confirm Slack, GitHub, Google Classroom, and Discord  Setup
-Welcome to prep course , let’s confirm your accounts are ready for success! Take a moment to create consistent profiles for a few of the key tools you will use: **Google Classroom**, **GitHub**, **Discord**, and **Slack**. Then introduce yourself in your new class-specific Slack channel.
+# Confirm Slack, GitHub, D2L, and Discord  Setup
+Welcome to prep course , let’s confirm your accounts are ready for success! Take a moment to create consistent profiles for a few of the key tools you will use: **D2L**, **GitHub**, **Discord**, and **Slack**. Then introduce yourself in your new class-specific Slack channel.
 
 ## Profile Picture
-You will need a photograph of your lovely face. Not your cat, flowers. Not a cartoon or bitmoji. Add a nice headshot so that we can learn your name faster and give you better feedback on assignments. Your profile picture should be identical across The Google Classroom, GitHub, Discord, and Slack.
+You will need a photograph of your lovely face. Not your cat, flowers. Not a cartoon or bitmoji. Add a nice headshot so that we can learn your name faster and give you better feedback on assignments. Your profile picture should be identical across D2L, GitHub, Discord, and Slack.
 
 ## Get Familiar with Your Online Tools
-* Google classroom lets you submit and track all assignments.
+* D2l is an LMS which lets you submit and track all assignments.
 * GitHub is the online place to store your code and collaborate with other developers using the Git version control system.
 * Slack is a nice chat program that will let you communicate directly with classmates, instructors, and TAs.
 * Discord is a nice ticket program that will let you raise tickets during lab time so TAs will reach out to you and help you directly.
 
-## Google Classroom Setup
-When you complete your course enrollment, you will get an email inviting you to join the Google classroom for this course. Follow the instructions in the email to get connected.
-The most important thing is that you have to have a Gmail email or account to use google classroom so this is the first step.
+## D2L Setup
+Please make sure that you have a D2L account and you're enrolled in your course.
 
 ## Github Setup
 - Go to [GitHub.com](https://github.com/).
@@ -42,7 +41,7 @@ If you already have a GitHub account, Great! Complete any remaining steps.
 - Slack offers both desktop and mobile application versions. Once your account is configured, download and install both of those, too.
 
 ## Discord Setup
-You just have to join our discord bot by using this [Link](https://discord.gg/DfMTM4Dg), by the way, you have to have an active email because Discord will ask you to use an email to sign up. 
+You just have to join our discord bot by using the link that has been sent in your class channel in Slack). Please note that you have to have an active email because Discord will ask you to use an email to sign up. 
 
 ## Requirement regarding installation
 
@@ -69,7 +68,7 @@ tree --version
 
 ## Submission Instructions For Accounts
 Once you set up your accounts, leave a message in the submission field for this assignment with your personal introduction (and pronoun) to the instructional team along with the URL to your GitHub profile page.
-See you in the Google classroom, GitHub, Discord, and Slack; and see you in class soon!
+See you in D2L , GitHub, Discord, and Slack; and see you in class soon!
 
 ## Submission Instructions For Installation 
 

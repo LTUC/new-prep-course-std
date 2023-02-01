@@ -31,4 +31,4 @@
 | 12      | Local Storage and JSON  |
 | 13      | CDN Libraries, Chart JS |
 | 14      | Debugging in JS         |
-| 15      | Installation Party      |
+| 15      | Project Kickoff         |
